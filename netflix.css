@@ -1,0 +1,566 @@
+body{
+    margin: 0px;
+}
+.mainbody{
+    width: 100%;
+    height: auto;
+    background-color: #333;
+}
+.Home{
+    width: 100%;
+    height: 710px;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(resizedImage.png);
+    background-size: 1350px;
+}
+.image1{
+    width: 100%;
+    height: 700px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    
+}
+.logo{
+    height: 118px;
+    width: 250px;
+    position: relative;
+    left: 10px;
+    top: -10px;
+}
+.select{
+    color: white;
+    background-color: black;
+    /* background-size: 63px; */
+    border-color: black;
+    /* border-style: double; */
+    position: relative;
+    float: right;
+    /* border-radius: 2px; */
+    right: 200px;
+    top: 33px;
+    border-color: white;
+    font-family:Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    width: 90px;
+    height: 33px;
+    padding-left: 18px;
+}
+.signin{
+    float: right;
+    position: relative;
+    top: 32px;
+    right: 5px;
+    width: 82px;
+    height: 34px;
+    background-color: #e50914;
+    border-color: #e50914;
+    border-radius: 4px;
+    font-size: large;
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.Hometext{
+    width: 990px;
+    height: 500px;
+    position: relative;
+    left: 173px;
+    display: table-caption;
+}
+.maintitle{
+    color: white;
+    position: relative;
+    text-align: center;
+    top: 84px;
+    font-size: 50px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.title2{
+    color: white;
+    position: relative;
+    top: 63px;
+    text-align: center;
+    width: 98%;
+    height: 44px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: x-large;
+    font-weight: lighter;
+}
+.title3{
+    color: white;
+    position: relative;
+    top: 55px;
+    text-align: center;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: larger;
+}
+.form{
+    position: relative;
+    top: 56px;
+    left: 172px;
+    width: 649px;
+}
+.email1{
+    width: 435px;
+    height: 50px;
+}
+.getstarted{
+    position: relative;
+    left: 442px;
+    bottom: 55px;
+    width: 197px;
+    height: 56px;
+    background-color: #e50914;
+    border-color: #e50914;
+    color: white;
+    font-size: x-large;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.section1{
+    background-color: black;
+    width: 100%;
+    height: 450px;
+    position: relative;
+    top: 7px;
+}
+.section2{
+    background-color: black;
+    width: 100%;
+    height: 540px;
+    position: relative;
+    top: 12px;
+}
+.section3{
+    background-color: black;
+    width: 100%;
+    height: 550px;
+    position: relative;
+    top: -17px;
+}
+.section4{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: -11px;
+}
+.secondpagecontent{
+    width: 50%;
+    float: left;
+    height: 450px;
+
+}
+.content1{
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+   
+   
+}
+.h1{
+    position: relative;
+    top: 73px;
+    left: 105px;
+    font-size: 50px;
+}
+.p1{
+    position: relative;
+    top: 65px;
+    left: 106px;
+    font-size: 29px;
+}
+.TV{
+    width: 50%;
+    float: right;
+    height: 450px;
+
+}
+.imagetv{
+    width: 100%;
+    height: 450px;
+    background-color: aliceblue;
+}
+.video1{
+    position: relative;
+    top: 100px;
+    left: 9px;
+    height: 264px;
+    width: 616px;
+   
+}
+.thirdpagecontent{
+    width:100%;
+    height: 450px;
+}
+
+.leftsection1{
+    float: left;
+    width: 50%;
+    height: 450px;
+    background-image: url(mobile-0819.jpg);
+}
+.rightsection1{
+    float: right;
+    width: 50%;
+    height: 450px;
+}
+.button1{
+    width: 357px;
+    height: 90px;
+    position: top;
+    position: relative;
+    top: 335px;
+    left: 140px;
+    background-color: black;
+    border-color: grey;
+    border-bottom-style: double;
+    border-bottom-style: double;
+    border-right-style: double;
+    border-radius: 12px;
+    color: white;
+    font-size: larger;
+    padding-bottom: 21px;
+    text-align: left;
+    padding-left: 80px;
+}
+.downloadicon{
+    position: relative;
+    top: 255px;
+    left: 412px;
+    width: 66px;
+}
+.download{
+    color: blue;
+    position: relative;
+    top: 208px;
+    left: 221px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: lighter;
+}
+.boxstranger{
+    width: 40px;
+    height: 20px;
+}
+.stangerthings{
+    position: absolute;
+    width: 50px;
+    margin-top: 135px;
+    margin-left: 152px;
+}
+.content2{
+    height: 420px;
+}
+.para1{
+    color: white;
+    position: relative;
+    top: 140px;
+    font-size: 44px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.para2{
+    color: white;
+    position: relative;
+    top: 150px;
+    font-size: 30px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.content3{
+    width: 80%;
+    position: relative;
+    top: 80px;
+    left: 78px;
+    height: 332px;
+}
+.leftsection2{
+    width: 50%;
+    height: 450px;
+   
+}
+.para3{
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    top: 100px;
+    left: 60px;
+    font-size: 50px;
+}
+.para4{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 60px;
+    font-size: 28px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.rightsection2{
+    width: 50%;
+    height: 548px;
+    float: right;
+    position: relative;
+    bottom: 449px;
+}
+.content4{
+    width: 552px;
+    height: 388px;
+    position: relative;
+    left: 121px;
+    top: 68px;
+    display: table-caption;
+}
+.desktop{
+    position: relative;
+    bottom: 310px;
+    height: 500px;
+    background-image: url(desktop\ image.png);
+}
+.video2{
+    position: relative;
+    right: 0px;
+    width: 400px;
+    top: 61px;
+
+}
+.leftsection3{
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+.childrenpicture{
+    width: 100%;
+    height: 450px;
+    position: relative;
+    top: 0px;
+
+}
+.children{
+    width: 550px;
+    position: relative;
+    left: 114px;
+    top: 30px;
+}
+.para5{
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 52px;
+    position: relative;
+    top: 35px;
+}
+.para6{
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 26px;
+    line-height: 35px;
+    position: relative;
+    top: 30px;
+}
+.childrencontent{
+    position: relative;
+    top: 30px
+}
+.section5{
+    width: 100%;
+    height: 850px;
+    background-color: black;
+    position: relative;
+    top: -6px;
+}
+.content5{
+    width: 80%;
+    position: relative;
+    height: 570px;
+    display: inline;
+}
+.FAQ{
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 49px;
+    position: relative;
+    left: 327px;
+    display: inherit;
+    top: 99px;
+}
+.FAQlist{
+    width: 100%;
+    height: 60%;
+    position: relative;
+    right: 0px;
+    border-left-width: 0px;
+    top: 127px;
+}
+.FAQlist1{
+    height: 66px;
+    width: 70%;
+    background-color: #222;
+    margin-bottom: -19px;
+    margin-left: 189px;
+}
+.text1{
+    color: white;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: lighter;
+    font-size: 28px;
+    padding-left: 26px;
+    padding-top: 15px;
+}
+.form1{
+    position: relative;
+    top: 100px;
+    left: 0px;
+    margin-left: 351px;
+}
+.title4{
+    color: white;
+    position: relative;
+    top: 55px;
+    text-align: center;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: larger;
+    top: 92px;
+}
+.section6{
+    width: 100%;
+    height: 638px;
+    background-color: black;
+}
+.footercontent{
+    color:#737373;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 35px;
+    position: relative;
+    left: 220px;
+    top: 62px;
+    display: table-cell;
+}
+.footercontent1{
+    width: 54%;
+    height: 150px;
+    position: relative;
+    top: 55px;
+    left: 221px;
+    display: inline-block;
+}
+.footer1{
+    width: 153px;
+    height: 150px;
+    
+}
+.footer12{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #737373;
+    font-size: 14px;
+    position: relative;
+    top: 18px;
+}
+.footer13{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    top: 52px;
+    font-size: small;
+    left: -31px;
+    color: #737373
+}
+.footer14{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    top: 73px;
+    font-size: small;
+    color: #737373
+}
+.footer15{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    position: relative;
+    top: 110px;
+    font-size: small;
+    right: 48px;
+    color: #737373
+}
+.footer2{
+    width: 151px;
+    height: 130px;
+    position: relative;
+    left: 170px;
+    bottom: 132px;
+}
+.footer21{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #737373;
+    font-size: 14px;
+}
+.footer22{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #737373;
+    font-size: 14px;
+    position: relative;
+    top: 18px;
+
+}
+.footer23{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #737373;
+    font-size: 14px;
+    position: relative;
+    top: 39px;
+
+}
+.footer24{
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #737373;
+    font-size: 14px;
+    position: relative;
+    top: 55px;
+}
+.footer3{
+    width: 153px;
+    height: 128px;
+    position: relative;
+    bottom: 259px;
+    left: 373px
+}
+.footer4{
+    width: 126px;
+    height: 125px;
+    position: relative;
+    bottom: 386px;
+    left: 569px;
+    display: inline-block;
+}
+.Netflixindia{
+    width: 86px;
+    height: 31px;
+    position: relative;
+    bottom: 310px;
+}
+.select1{
+    width: 116px;
+    height: 40px;
+    position: relative;
+    bottom: 400px;
+}
+.select2{
+    color: white;
+    background-color: black;
+    border-color: black;
+    position: relative;
+    top: 8px;
+    border-color: white;
+    font-family:Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    width: 90px;
+    height: 33px;
+    padding-left: 18px;
+}
+.tvsetup{
+    width: 100%;
+    height: 450px;
+    position: relative;
+    bottom: 268px;
+    background-image: url(tv.png);
+}
